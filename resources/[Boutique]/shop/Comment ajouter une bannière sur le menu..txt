@@ -1,0 +1,4 @@
+Bonjour, 
+Je vais vous expliquer comment ajouter une bannière sur votre menu boutique.
+Pour cela faites un dossier 'stream' dans le répertoire boutique-vip et ajoutez un fichier commonmenu.ytd
+ou dedans vous allez upload ou remplacer l'image qui se nommera "interaction_bgd" puis faite un restart de votre serveur.
