@@ -1,6 +1,6 @@
 # # Red-Island Original | Base officielle
 
-### 😨 Je leak ma base car des faux serveurs se font passer pour nous
+### 😨 Je leak ma base car de faux serveurs se font passer pour nous
 ## 
 #### ☣️ Precision : base officiel de Red-Island
 #### 😍 I will help nobody !
